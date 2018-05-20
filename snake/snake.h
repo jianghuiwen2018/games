@@ -21,7 +21,7 @@ void Set_Size_Coord();
 void Game_Charge();
 void Welcome();
 void Game_Over();
-void Game_Start();
+void Game_Start();\
 //void Game_Replay();
 void Game_Diy();
 void Game_Score();
