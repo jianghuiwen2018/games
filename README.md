@@ -1,54 +1,9 @@
-# 标题
-标题可以用#的个数来表示
-例如：
-
- \# 标题指的就是标题一
-
- \## 标题指的就是标题二
-
- 下面就是引用：
- >这里就是引用
- 
- Markdown中的引用有什么用？
-
- 粗体和斜体：
-
-\*这是斜体*
-
-
-*这是斜体*  
-jiangihjsifsifjajfafai
-
-\**这是粗体**
-
-**这是粗体**
-__这是粗体__
-_这是斜体_
->markdown 中的换行是怎么实现的？
-
-~~***这是删除线***~~  
-\***这是加粗斜体文本**\*
-
-以下是一些代码  
-```c
-#include<stdio.h>
-int main()
-{
-    printf("hello world\n");
-    return 0;
-}
-``` 
-
-```c
-int main(){printf;}  
-```
--[x]  游戏代码的编写  
--[ ]   游戏文档的编写  
-  |姓名|性别|年龄
-----|---|---|------
-  |姜绘文|男|21  
-  |
-
-
-
- 
+some little games
+====
+this is a respository for writing some games  
+ok,all right,i have to admmit that my english just like a piece of shit  
+emmmmm,chinese is not suitable to write code  
+anyway,i love my country,i love my nation,  
+so i have to parctise english well,  
+just for zhonghuanation splendid again    
+all right ,if you dont't like ,just think this words are bullshits 
